@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Payment Destination Account",
+    'name': "KBI-Payment Destination Account",
 
     'summary': """
         Payment Destination Account
